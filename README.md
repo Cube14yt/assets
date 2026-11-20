@@ -1,2 +1,2 @@
 # Notice
-This repo is for storing image assets for my projects
+This repo is for storing image, css, or basically any assets for my projects
